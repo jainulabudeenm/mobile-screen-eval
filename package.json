@@ -17,7 +17,7 @@
   "author": "Zain Hasan",
   "license": "MIT",
   "bin": {
-    "mobile-screen-eval": "./bin/install.js"
+    "mobile-screen-eval": "bin/install.js"
   },
   "files": [
     "bin/",
@@ -29,6 +29,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zainhq/mobile-screen-eval"
+    "url": "git+https://github.com/jainulabudeenm/mobile-screen-eval.git"
+  },
+  "homepage": "https://github.com/jainulabudeenm/mobile-screen-eval#readme",
+  "bugs": {
+    "url": "https://github.com/jainulabudeenm/mobile-screen-eval/issues"
   }
 }
