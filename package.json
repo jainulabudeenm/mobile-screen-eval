@@ -1,6 +1,6 @@
 {
   "name": "mobile-screen-eval",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Install a rigorous three-layer mobile UX evaluation skill for Claude — Nielsen's 10, WCAG 2.1 AA, and mobile platform accessibility (iOS HIG + Material Design).",
   "keywords": [
     "ux",
